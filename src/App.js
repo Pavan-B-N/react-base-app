@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Satellite</h1>
+      <h1>React App</h1>
     </>
   )
 }
